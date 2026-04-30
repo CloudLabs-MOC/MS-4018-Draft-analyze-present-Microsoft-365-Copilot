@@ -189,13 +189,13 @@ In this task, you will use Copilot in PowerPoint to add or replace images on you
 
     > **Note:** `Copilot may automatically insert or replace the image directly on the slide after generating it. If this happens, you do not need to manually copy and paste the image. Simply review the inserted image and proceed to the next step.`
 
-> **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+    > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
 
-- Hit the Validate button for the corresponding task. You will receive a success message. 
-- If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-- If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
+    - Hit the Validate button for the corresponding task. You will receive a success message. 
+    - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+    - If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-<validation step="2acf4dfd-f2fa-44ca-9d58-18af158e82bd" />
+    <validation step="2acf4dfd-f2fa-44ca-9d58-18af158e82bd" />
     
 ## Task 4: Edit the text
 
@@ -209,11 +209,11 @@ In this task, you will use Copilot in PowerPoint to refine and improve the text 
 
 1. Enter the following prompt **(1)** in the dialog that appears, then click **Send (2)**:
 
-      ```
-      Expand this text to include additional  details. 
-      ``` 
+    ```
+    Expand this text to include additional  details. 
+    ``` 
 
-      ![](./Media/ms4018-p2t4p2.png)
+    ![](./Media/ms4018-p2t4p2.png)
 
 1. Review the suggestions provided by Copilot, then select **Keep it** to update the selected text.
 
@@ -225,15 +225,15 @@ In this task, you will use Copilot to review and improve the structure and flow 
 
 1. In the Copilot pane, then enter the following prompt **(1)** and then select **Send (2)**:
 
-      ```
-      Give me tips to improve my presentation, both in general and slide-by-slide.
-      ```
+    ```
+    Give me tips to improve my presentation,  both in general and slide-by-slide.
+    ```
 
-      ![](./Media/ms4018-p2t5p1.png)
+    ![](./Media/ms4018-p2t5p1.png)
 
 1. Copilot responds, providing general suggestions along with suggestions for each slide. You can use these tips to either manually modify the content in your deck, or use the in-app Copilot features you've explored in this exercise to improve your presentation.
 
-      ![](./Media/ms4018-p2t5p2.png)
+    ![](./Media/ms4018-p2t5p2.png)
 
 ## Summary
 
