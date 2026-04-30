@@ -144,13 +144,13 @@ In this task, you will use Copilot in Outlook to draft, personalize, and send a 
 
 1. Enter the following prompt **(2)** and click **Send (3)** :
 
-     ```
-     I need help with drafting a thank you note for a recent interview.
-     ```
+      ```
+      I need help with drafting a thank you note for a recent interview.
+      ```
 
-     ![](./Media/ms4018-p6t6p1.png)
+      ![](./Media/ms4018-p6t6p1.png)
 
-     Copilot  generates a draft for you.
+      Copilot  generates a draft for you.
 
 1. Review the draft and make any necessary adjustments to personalize it.
 
