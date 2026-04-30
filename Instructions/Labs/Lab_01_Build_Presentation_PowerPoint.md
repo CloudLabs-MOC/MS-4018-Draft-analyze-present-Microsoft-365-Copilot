@@ -197,28 +197,27 @@ In this task, you will use Copilot in PowerPoint to add or replace images on you
 
 <validation step="2acf4dfd-f2fa-44ca-9d58-18af158e82bd" />
 
-    
+
 ## Task 4: Edit the text
 
 In this task, you will use Copilot in PowerPoint to refine and improve the text on your slides, making it more concise, engaging, or tailored to your audience.
 
 1. Navigate to the slide containing the text you may want to edit.
-
 1. Select the text box to modify **(1)**, then select the **Copilot (pen) (2)** icon next to it.
 
      ![](./Media/ms4018-p2t4p1.png)
 
 1. Enter the following prompt **(1)** in the dialog that appears, then click **Send (2)**:
 
-    ```
-    Expand this text to include additional  details. 
-    ``` 
+     ```
+     Expand this text to include additional  details. 
+     ``` 
 
-    ![](./Media/ms4018-p2t4p2.png)
+     ![](./Media/ms4018-p2t4p2.png)
 
 1. Review the suggestions provided by Copilot, then select **Keep it** to update the selected text.
 
-      ![](./Media/ms4018-p2t4p3.png)
+       ![](./Media/ms4018-p2t4p3.png)
 
 ## Task 5: Organize the presentation
 
@@ -226,15 +225,15 @@ In this task, you will use Copilot to review and improve the structure and flow 
 
 1. In the Copilot pane, then enter the following prompt **(1)** and then select **Send (2)**:
 
-    ```
-    Give me tips to improve my presentation,  both in general and slide-by-slide.
-    ```
+     ```
+     Give me tips to improve my presentation,  both in general and slide-by-slide.
+     ```
 
-    ![](./Media/ms4018-p2t5p1.png)
+     ![](./Media/ms4018-p2t5p1.png)
 
 1. Copilot responds, providing general suggestions along with suggestions for each slide. You can use these tips to either manually modify the content in your deck, or use the in-app Copilot features you've explored in this exercise to improve your presentation.
 
-    ![](./Media/ms4018-p2t5p2.png)
+     ![](./Media/ms4018-p2t5p2.png)
 
 ## Summary
 
