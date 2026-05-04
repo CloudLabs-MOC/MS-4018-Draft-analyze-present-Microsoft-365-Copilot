@@ -4,7 +4,7 @@ Welcome to your MS-4018: Draft, analyse, and present with Microsoft 365 Copilot 
 
 >**Note**: <span style="color:maroon;"> Once you launch the track, you’ll have access to a virtual machine (VM) for **20 hours**. The displayed track duration of **5 days and 8 hours** is based on an estimated usage of **4 hours per day**. Please plan your lab sessions accordingly. If the VM uptime of 20 hours is fully exhausted before completing the labs, access will be lost. To avoid this, **once you finish using the lab for the day, please stop or deallocate the VM from the Resources tab**. Refer to the **[Managing Your Virtual Machine](#managing-your-virtual-machine)** section for step-by-step instructions.  
 
-> <span style="color:maroon;">If the full 20 hours of VM uptime is exhausted, the VM will no longer be accessible, and **the lab duration cannot be extended**.
+> <span style="color:maroon;"> If the full 20 hours of VM uptime is exhausted, the VM will no longer be accessible, and **the lab duration cannot be extended**.
 
 ### Overall Estimated Timing: 240 Minutes
 
