@@ -45,7 +45,7 @@ In this task, you will use Copilot in Teams to draft, rewrite, and adjust a mess
 
 1. Select **Post in channel** to open the chat window.
 
-    ![](./Media/ms3l4.png)
+    ![](./Media/ms4018-07-l29.png)
 
 1. Write your message in the box at the bottom of the chat or channel. **Copy and paste** the following text **(1)** into the dialog box: 
     
@@ -103,7 +103,7 @@ In this task, you will use Copilot in Outlook to find an optimal meeting time an
 
 1. Select **New Email**.
 
-    ![](./Media/ms1l28.png) 
+    ![](./Media/ms4018-07-l30.png)
 
 1. Select the **Copilot** icon from the ribbon to open the Copilot pane.
 

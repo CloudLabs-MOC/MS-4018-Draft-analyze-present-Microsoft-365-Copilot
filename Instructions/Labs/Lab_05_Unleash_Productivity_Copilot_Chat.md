@@ -35,7 +35,7 @@ In this task, you will use Copilot Chat in Teams to research the interviewer. Yo
 
 1. Make sure the toggle at the top of the screen is set to **Web**.
 
-    ![](./Media/ms4018-p6t1p2.png)
+    ![](./Media/ms4018-07-l33.png)
 
 1. Prompt Copilot with:
 
@@ -43,7 +43,7 @@ In this task, you will use Copilot Chat in Teams to research the interviewer. Yo
     Find information about Allan and their role at Contoso.
     ```
 
-    ![](./Media/ms4018-p6t1p3.png)
+    ![](./Media/ms4018-07-l34.png)
 
 1. Review the information provided by Copilot.
 
@@ -110,7 +110,8 @@ In this task, you will use Copilot Chat to compile your interview questions and 
 1. In the same Copilot Chat window, prompt Copilot to 
 
     ```
-    Create a Word .docx document with this output.```
+    Create a Word .docx document with this output.
+    ```
 
 1. Copilot generates a new Word document.
 

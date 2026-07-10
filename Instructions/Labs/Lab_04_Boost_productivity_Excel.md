@@ -35,13 +35,13 @@ Throughout this Lab, we'll craft prompts for Microsoft 365 Copilot that referenc
 
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
-1. Select **Apps (1)** and then select **Onedrive (2)**.   
+1. In the Microsoft 365 portal, click on the **App launcher  (1)** button and select **OneDrive (2)**.   
 
-    ![](./Media/ms4018-p3t1p1.png)
+    ![](./Media/ms4018-07-l2.png)
 
 1. Navigate to **My files**.
 
-    ![](./Media/ms2l2.png)
+    ![](./Media/ms4018-07-l18.png)
 
 1. Select **Create or Upload (1)** and then select **Files upload (2)**.
 
@@ -59,9 +59,9 @@ In this task, you will use Copilot in Excel to review the dataset, generate a su
 
 1. Open the sample file (Contoso Chai Tea market trends 2023.xlsx) you uploaded to your OneDrive.
 
-1. Select the **Copilot (2)** icon on the **Home (1)** to open the Copilot pane.
+1. From the Excel workbook, select **Copilot** icon located at the bottom-right corner of the screen to open the Copilot pane.
 
-    ![](./Media/ms4018-p5t1p1.png)
+    ![](./Media/ms4018-07-l31.png)
 
     > **Note:** Use the **Edit** option to control how Copilot responds. You can choose **Allow editing** to let Copilot directly modify the document, or select **Chat only** if you prefer Copilot to provide suggestions in chat without making changes to the document.
 
@@ -79,7 +79,7 @@ In this task, you will use Copilot in Excel to review the dataset, generate a su
 
     > **Note:** When you ask Copilot to summarize the dataset, it may automatically create and insert a structured table (such as totals, averages, minimums, and maximums) in the worksheet, even if not explicitly requested. This behavior depends on the selected mode, if **Allow editing** is enabled, Copilot can directly add or modify content in the workbook; if **Chat only** is selected, it will provide the summary in chat without making changes to the worksheet.
 
-    ![](./Media/ms4018-p5t1p4.png)
+    ![](./Media/ms4018-07-l32.png)
 
 1. Copilot responds with a detailed set of important takeaways, essentially an executive summary, of the data. It shows patterns and interpretations of the data, and recommended next steps. From this response, you can prompt Copilot to:
 

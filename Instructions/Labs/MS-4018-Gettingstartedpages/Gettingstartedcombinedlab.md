@@ -89,14 +89,14 @@ Your virtual machine is your workhorse throughout the workshop. The lab guide is
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![Access Your VM and Lab Guide](../Media/ms4018-gs-envtab.png)
+![Access Your VM and Lab Guide](../Media/ms4018-07-g1.png)
 
 
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
  
-![Access Your VM and Lab Guide](../Media/ms4018-gs-splittab.png)
+![Access Your VM and Lab Guide](../Media/ms4018-07-g2.png)
 
 ## Managing Your Virtual Machine
  
