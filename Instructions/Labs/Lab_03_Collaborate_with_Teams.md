@@ -103,7 +103,7 @@ In this task, you will use Copilot in Outlook to find an optimal meeting time an
 
 1. Select **New Email**.
 
-    ![](./Media/ms4018-07-l30.png)
+    ![](./Media/ms4018-07-l30n.png)
 
 1. Select the **Copilot** icon from the ribbon to open the Copilot pane.
 

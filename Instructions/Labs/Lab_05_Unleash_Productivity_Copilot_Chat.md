@@ -29,7 +29,7 @@ In this task, you will use Copilot Chat in Teams to research the interviewer. Yo
 
    - **Password:** <inject key="AzureAdUserPassword"></inject>
 
-1. Select the Copilot Chat icon on the left side of the screen.
+1. Select the **Copilot** Chat icon on the left side of the screen.
 
     ![](./Media/ms4018-p6t1p1.png)
 

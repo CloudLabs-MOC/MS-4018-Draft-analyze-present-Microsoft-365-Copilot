@@ -72,9 +72,9 @@ In this task, you will use Copilot in PowerPoint to generate a draft presentatio
 
     ![](./Media/ms4018-07-l3.png)
 
-1. Select **+ Create a new presentation**.
+1. Select **+ Create blank presentation**.
 
-    ![](./Media/ms4018-07-l3.png)
+    ![](./Media/ms4018-07-l4.png)
 
 1. On the **Powerpoint** home page, click on **Copilot** which is in the bottom right corner.
 
@@ -200,9 +200,9 @@ In this task, you will use Copilot in PowerPoint to refine and improve the text 
 
 1. Select the text box to modify **(1)**, then select the **Copilot (2)** icon next to it.
 
-     ![](./Media/ms4018-07-l15.png)
+     ![](./Media/ms4018-07-l15n.png)
 
-1. Enter the following prompt **(1)** in the dialog that appears, then click **Send (2)**:
+1. Enter the following prompt in the dialog that appears, then click **Send**:
 
      ```
      Expand this text to include additional  details. 
